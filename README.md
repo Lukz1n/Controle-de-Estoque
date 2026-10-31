@@ -73,7 +73,3 @@ ControleEstoque/
 ├── Models/     Modelos de produtos e movimentações
 └── Services/   Regras de negócio, consultas e exportações
 ```
-
-## Licenciamento
-
-O repositório ainda não contém um arquivo `LICENSE`. Se você pretende permitir que outras pessoas reutilizem ou distribuam o código, escolha e inclua uma licença para o projeto. A biblioteca QuestPDF também tem seus próprios termos: o código está configurado com `LicenseType.Community`, então confira as condições de uso da biblioteca antes de distribuir o aplicativo, especialmente em contexto comercial.
